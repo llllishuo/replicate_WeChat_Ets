@@ -1,0 +1,6 @@
+@Component
+struct UserMsgFrom{
+  build(){
+
+  }
+}
